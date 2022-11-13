@@ -14,6 +14,7 @@
 - :last_quarter_moon_with_face: Lua
 - :snake: Python
 - :shell: Bash scripting
+- :crab: Rust
 
 **Contact**
 --
