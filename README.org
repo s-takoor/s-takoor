@@ -1,6 +1,5 @@
-#+TITLE: PROFILE
+#+TITLE: ABOUT
 
-* ABOUT
 👋 Greetings, fellow tech enthusiasts! I'm a passionate advocate for information security and ethical hacking. My journey encompasses a profound love for all things *nix, solidifying my commitment to open-source and Unix-based systems.
 
 - :penguin: *nix Enthusiast
@@ -23,7 +22,6 @@
 Feel free to scrutinize my code, share your insights, or join me in the pursuit of secure coding practices.
 
 * CONTACT
-
-:mailbox: Feel free to reach out via email at: [[mailto:shashiduth.takoor@gmail.com][shashiduth.takoor@gmail.com]]
+:mailbox: Feel free to reach out via email at: shashiduth.takoor@gmail.com
 
 Let's connect, collaborate, and together, let's contribute to fortifying the ever-evolving world of technology! 🛡️🌐
