@@ -1,0 +1,29 @@
+#+TITLE: PROFILE
+
+* ABOUT
+👋 Greetings, fellow tech enthusiasts! I'm a passionate advocate for information security and ethical hacking. My journey encompasses a profound love for all things *nix, solidifying my commitment to open-source and Unix-based systems.
+
+- :penguin: *nix Enthusiast
+- :computer: Infosec Practitioner
+- :book: Lifelong Learner
+
+* LANGUAGES
+
+:seedling: Currently navigating the programming landscape with a security-focused lens:
+
+- :space_invader: Hacking Haskell for xmonad WM
+- :spider_web: Weaving through HTML to expose the web's vulnerabilities
+- :coffee: Brewing Java for stealthy, versatile applications
+- :last_quarter_moon_with_face: Lua sorcery for scripting magic
+- :snake: Python (Always learning!) for hacking and automation
+- :shell: Crafting Bash scripts to penetrate system defenses
+- :crab: Forging Rust into secure system-level tools
+- :gear: Venturing into JavaScript's dark alleys (Beginner) for web security exploits
+
+Feel free to scrutinize my code, share your insights, or join me in the pursuit of secure coding practices.
+
+* CONTACT
+
+:mailbox: Feel free to reach out via email at: [[mailto:shashiduth.takoor@gmail.com][shashiduth.takoor@gmail.com]]
+
+Let's connect, collaborate, and together, let's contribute to fortifying the ever-evolving world of technology! 🛡️🌐
