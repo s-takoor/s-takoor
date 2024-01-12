@@ -23,6 +23,6 @@ Feel free to scrutinize my code, share your insights, or join me in the pursuit 
 
 * CONTACT
 
-:mailbox: Feel free to reach out via email at:  [[mailto:shashiduth.takoor@gmail.com][shashiduth.takoor@gmail.com]]
+- :mailbox: Feel free to reach out via email at:  [[mailto:shashiduth.takoor@gmail.com][shashiduth.takoor@gmail.com]]
 
 Let's connect, collaborate, and together, let's contribute to fortifying the ever-evolving world of technology! 🛡️🌐
