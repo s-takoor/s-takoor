@@ -1,6 +1,6 @@
 #+TITLE: ABOUT
 
-👋 Greetings, fellow tech enthusiasts! I'm a passionate advocate for information security and ethical hacking. I'm hooked on everything **nix*, loving *open-source* and *Unix* systems.
+👋 Greetings, fellow tech enthusiasts! I'm a passionate advocate for information security and ethical hacking. I'm hooked on everything *nix, open-source and Unix systems.
 
 - :penguin: *nix Enthusiast
 - :computer: Infosec Practitioner
